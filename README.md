@@ -34,9 +34,13 @@ Feel free to check out my projects and connect with me if you have any questions
 
 
 ## 🥳 Some of my projects
+# Bank Raya
+- [Frontend - Vite - ReactJS - RAYASIM](https://github.com/Bank-Raya/bridgtl-rsm-fe-dashboard) - **Recommended** ✨
+- [Frontend - ReactJS - DEMC] - **Recommended** ✨
 
-- [Backend - ExpressJS - Vehicle-Rental](https://github.com/fajar035/BE_vehicle_rent) - **Recommended** ✨
-- [Frontend - ReactJS - Vehicle-Rental](https://react-vehicle-rental.vercel.app/) - **Recommended** ✨
+## 
+- [Backend - ExpressJS - Vehicle-Rental](https://github.com/fajar035/BE_vehicle_rent)
+- [Frontend - ReactJS - Vehicle-Rental](https://react-vehicle-rental.vercel.app/)
 - [Landing Page - VueJS - Good Food](https://good-foods.vercel.app/) 
 - [VueJS - Weather App](https://weather-app-ikehikeh151.vercel.app/) 
 - [Checkout App - ReactJS - Kasir-Ku](https://kasir-ku-react.vercel.app/) 
